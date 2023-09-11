@@ -1,10 +1,4 @@
-TITLE Project 6     (Proj6_huangj5.asm)
-
 ; Author: Jin Huang
-; Last Modified:060521
-; OSU email address: huangj5@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number: 6                Due Date: 060621
 ; Description: This program prompts user to input 10 signed integers and displays the integers in a list.
 ;              Then it calcualtes and displays the sum and average of the integers. 
 ;              This program takes numeric input in string, validates if each byte of the input string
